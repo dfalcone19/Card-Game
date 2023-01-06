@@ -7,7 +7,7 @@ import cards.Card;
 import java.util.ArrayList;
 
 /**
- * Main class for Lab 4 assignment.
+ * Main class for the random card game
  * 
  * @author Daniel Falcone
  */
@@ -74,7 +74,7 @@ public class Main {
 	}
 
 	/**
-	 * Constructor for Lab4 class.
+	 * Constructor for Main class.
 	 */
 	public Main() {
 		// Nested for loop to populate deck
